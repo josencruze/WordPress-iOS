@@ -2,7 +2,7 @@ name: Build and upload to Data Theorem
 
 on:
   push:
-    branches: [ main ]
+    branches: [ trunk ]
 
 jobs:
   apk:
